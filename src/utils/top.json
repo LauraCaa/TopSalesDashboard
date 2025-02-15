@@ -1,0 +1,47 @@
+{
+    "top_products": [
+      {
+        "name": "Maneki Neko Poster",
+        "image": "https://placehold.co/50",
+        "sold": 1249,
+        "growth": 15.2,
+        "growth_type": "positive"
+      },
+      {
+        "name": "Echoes Necklace",
+        "image": "https://placehold.co/50",
+        "sold": 1145,
+        "growth": 13.9,
+        "growth_type": "positive"
+      },
+      {
+        "name": "Spiky Ring",
+        "image": "https://placehold.co/50",
+        "sold": 1073,
+        "growth": 9.5,
+        "growth_type": "positive"
+      },
+      {
+        "name": "Pastel Petals Poster",
+        "image": "https://placehold.co/50",
+        "sold": 1022,
+        "growth": 2.3,
+        "growth_type": "positive"
+      },
+      {
+        "name": "Il Limone",
+        "image": "https://placehold.co/50",
+        "sold": 992,
+        "growth": -0.7,
+        "growth_type": "negative"
+      },
+      {
+        "name": "Ringed Earring",
+        "image": "https://placehold.co/50",
+        "sold": 1201,
+        "growth": -1.1,
+        "growth_type": "negative"
+      }
+    ]
+  }
+  
